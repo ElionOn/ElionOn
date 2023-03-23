@@ -21,8 +21,6 @@ Amante a la tecnología y entusiasta de la programación. Dedico mi tiempo en pr
 [![Web](https://img.shields.io/badge/Web-ElionOn.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://)
 </br>
 [![Twitter](https://img.shields.io/badge/Twitter-@ElionOn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-@ElionOn-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/)
-[![TikTok](https://img.shields.io/badge/TikTok-@ElionOn-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@)
 [![Facebook](https://img.shields.io/badge/Facebook-@ElionOn-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/)
 
 ## Tecnologías:
