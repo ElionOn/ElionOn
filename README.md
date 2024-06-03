@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hola, mi nombre es Elian M. Gutiérrez:
+# Elian M. Gutiérrez:
 Amante a la tecnología y entusiasta de la programación. Dedico mi tiempo en pro de la comunidad.
 
 ## Encuéntrame en:
