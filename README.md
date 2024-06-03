@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github.com/ElionOn/ElionOn/blob/main/Banner_Elian.jpg">
+
 # Elian M. Gutiérrez:
 Amante a la tecnología y entusiasta de la programación. Dedico mi tiempo en pro de la comunidad.
 
