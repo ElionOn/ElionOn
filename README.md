@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Contacto [mejiagutierrezelian@gmail.com](mailto:mejiagutierrezelian@gmail.com)
 
 ## Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ElionOn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/elian-m-gutierrez?jobid=1234&lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3BhgU8q4mBSWaNibGna%2FGb4w%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ElianGutiérrez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/elian-m-gutierrez?jobid=1234&lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3BhgU8q4mBSWaNibGna%2FGb4w%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile)
 
 <!--## My tech stack
 
