@@ -17,11 +17,8 @@ Amante a la tecnología y entusiasta de la programación. Dedico mi tiempo en pr
 
 ## Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ElionOn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/elian-camilo-mej%C3%ADa-guti%C3%A9rrez-234a5426a?jobid=1234&lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3BJmztRPRzR12rN0b%2F3Mf79Q%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile)
-[![YouTube](https://img.shields.io/badge/YouTube-ElionOn-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/)
 [![Web](https://img.shields.io/badge/Web-ElionOn.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://)
 </br>
-[![Twitter](https://img.shields.io/badge/Twitter-@ElionOn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/)
-[![Facebook](https://img.shields.io/badge/Facebook-@ElionOn-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/)
 
 ## Tecnologías:
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
